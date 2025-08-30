@@ -21,3 +21,11 @@
 | IDE              | Xcode 15+                   |
 | Version Control  | Git & GitHub                |
 | Deployment Target| iOS 17+                     |
+
+
+##  Features
+
+- Visual presentation of Apple frameworks in an intuitive, scrollable list
+- Detail view with extended description and direct link to official documentation
+- Built-in web browser experience via `SFSafariViewController` for seamless in-app browsing
+- Clean UI design with SwiftUI's declarative syntax
