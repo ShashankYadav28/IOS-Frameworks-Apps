@@ -29,3 +29,15 @@
 - Detail view with extended description and direct link to official documentation
 - Built-in web browser experience via `SFSafariViewController` for seamless in-app browsing
 - Clean UI design with SwiftUI's declarative syntax
+
+
+##  Getting Started
+
+### Prerequisites
+
+- macOS Ventura (13+) or later  
+- Xcode 15+  
+- Swift 5.9+  
+- iOS 17+ (simulator or device)  
+- Git for version control
+
