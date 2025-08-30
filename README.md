@@ -41,3 +41,11 @@
 - iOS 17+ (simulator or device)  
 - Git for version control
 
+
+### Installation
+
+```bash
+git clone https://github.com/ShashankYadav28/IOS-Frameworks-Apps.git
+cd IOS-Frameworks-Apps
+open IOS-Frameworks-Apps.xcodeproj
+
