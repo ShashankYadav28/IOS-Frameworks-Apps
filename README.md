@@ -7,7 +7,7 @@
 - Highlights key Apple frameworks such as **UIKit**, **Combine**, **Core Data**, **AVFoundation**, and more.
 - Interactive list layout with **framework icons**, titles, and excerpts.
 - Detail screens provide deeper info, including an image and quick access to Apple’s official docs.
-- Designed with **SwiftUI**, ideal for showcasing modern iOS UI practices and navigation.
+- Designed with **SwiftUI**, ideal for showcasing modern iOS UI practices and navigation
 
 ##  Tech Stack
 
