@@ -39,7 +39,7 @@
 - Xcode 15+  
 - Swift 5.9+  
 - iOS 17+ (simulator or device)  
-- Git for version control
+- Git for version control 
 
 
 ### Installation
